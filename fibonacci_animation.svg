@@ -1,0 +1,36 @@
+<svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @keyframes grow {
+            0% { transform: scale(0.5); opacity: 0.3; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+        .circle {
+            animation: grow 1.5s infinite alternate ease-in-out;
+        }
+    </style>
+
+    <!-- Círculos representando os números de Fibonacci -->
+    <circle cx="30" cy="100" r="2" fill="orange" opacity="0.8" class="circle" style="animation-delay: 0s;"></circle>
+    <text x="30" y="105" fill="white" font-size="14px" text-anchor="middle">1</text>
+
+    <circle cx="80" cy="100" r="2" fill="blue" opacity="0.8" class="circle" style="animation-delay: 0.3s;"></circle>
+    <text x="80" y="105" fill="white" font-size="14px" text-anchor="middle">1</text>
+
+    <circle cx="130" cy="100" r="4" fill="orange" opacity="0.8" class="circle" style="animation-delay: 0.6s;"></circle>
+    <text x="130" y="105" fill="white" font-size="14px" text-anchor="middle">2</text>
+
+    <circle cx="190" cy="100" r="6" fill="blue" opacity="0.8" class="circle" style="animation-delay: 0.9s;"></circle>
+    <text x="190" y="105" fill="white" font-size="14px" text-anchor="middle">3</text>
+
+    <circle cx="260" cy="100" r="10" fill="orange" opacity="0.8" class="circle" style="animation-delay: 1.2s;"></circle>
+    <text x="260" y="105" fill="white" font-size="14px" text-anchor="middle">5</text>
+
+    <circle cx="340" cy="100" r="16" fill="blue" opacity="0.8" class="circle" style="animation-delay: 1.5s;"></circle>
+    <text x="340" y="105" fill="white" font-size="14px" text-anchor="middle">8</text>
+
+    <circle cx="430" cy="100" r="26" fill="orange" opacity="0.8" class="circle" style="animation-delay: 1.8s;"></circle>
+    <text x="430" y="105" fill="white" font-size="14px" text-anchor="middle">13</text>
+
+    <circle cx="530" cy="100" r="42" fill="blue" opacity="0.8" class="circle" style="animation-delay: 2.1s;"></circle>
+    <text x="530" y="105" fill="white" font-size="14px" text-anchor="middle">21</text>
+</svg>
