@@ -30,7 +30,4 @@
 
     <circle cx="430" cy="100" r="26" fill="orange" opacity="0.8" class="circle" style="animation-delay: 1.8s;"></circle>
     <text x="430" y="105" fill="white" font-size="14px" text-anchor="middle">13</text>
-
-    <circle cx="530" cy="100" r="42" fill="blue" opacity="0.8" class="circle" style="animation-delay: 2.1s;"></circle>
-    <text x="530" y="105" fill="white" font-size="14px" text-anchor="middle">21</text>
 </svg>
