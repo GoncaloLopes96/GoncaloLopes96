@@ -38,13 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-###
-
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GoncaloLopes96/GoncaloLopes96/output/snake.svg" alt="Snake animation" />
 
-###
+### Fibonacci
+
+<img src="fibonacci_animation.svg" alt="Fibonacci Animation" width="500">
