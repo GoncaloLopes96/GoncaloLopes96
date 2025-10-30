@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 About Me<br><br>👋 Hello, I am Gonçalo Cabral Lopes!  <br>• 🖥️ Area: Full Stack Programming.<br><br>🚀 What I Do?  <br>• 🎓 Java programming student.<br><br>🎮 Hobbies  <br>• 🧩 Puzzle’s <br>• 🎮 Video games <br>• 🎥 Movies and Series  <br>• ⚽ Football  <br><br>💡 Favorite Technologies  <br>• ☕ Java <br>• C#  <br>• 📱 TypeScript <br>• 💾 SQL  <br>• 🌐 HTML  <br> <br>🌟 Goals  <br>• 🤝 Collaborations  <br>• 📚 Knowledge sharing  <br>• 🧑‍💻 Professional experience  <br>• ✋ Helping others  <br><br>📫 Contact  <br>• 🔗 LinkedIn  <br>• ✉️ Email  <br>• 📱 Social media  <br><br>✨ Inspirational Quote  <br>> " The people who are crazy enough to think they can change the world are the ones who do."  <br>— Steve Jobs, Co-founder of Apple 🍎
+🧑‍💻 About Me<br><br>👋 Hello, I am Gonçalo Cabral Lopes!  <br>• 🖥️ Area: Full Stack Programming.<br><br>🚀 What I Do?  <br>• 🎓 Java programming student.<br><br>🎮 Hobbies  <br>• 🧩 Puzzle’s <br>• 🎮 Video games <br>• 🎥 Movies and Series  <br>• ⚽ Football  <br><br>💡 Favorite Technologies  <br>• ☕ Java <br>• 🌱 Spring <br>• 💻 C# <br>• 🌀 .NET Framework <br>• 📱 TypeScript <br>• 🔺 Angular <br>• 🐳 Docker <br>• 💾 SQL Server <br>• 🧱 SQLite <br>• ⚙️ Low-code Tools <br>• 🌐 HTML  <br> <br>🌟 Goals  <br>• 🤝 Collaborations  <br>• 📚 Knowledge sharing  <br>• 🧑‍💻 Professional experience  <br>• ✋ Helping others  <br><br>📫 Contact  <br>• 🔗 LinkedIn  <br>• ✉️ Email  <br>• 📱 Social media  <br><br>✨ Inspirational Quote  <br>> " The people who are crazy enough to think they can change the world are the ones who do."  <br>— Steve Jobs, Co-founder of Apple 🍎
 
 
 ## 🌐 Socials:
@@ -7,23 +7,31 @@
 
 ## 💻 Tech Stack:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
   <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".net logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12"/>
@@ -46,8 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="azuredevops logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="azuresql logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
 </div>
